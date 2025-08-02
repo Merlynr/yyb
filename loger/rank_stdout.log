@@ -1,0 +1,22 @@
+2025-08-02 19:39:32,945 - INFO - success into runk application
+2025-08-02 19:39:32,945 - ERROR - 操作失败: _StoreAction.__init__() got an unexpected keyword argument 'description'
+2025-08-02 19:46:02,252 - INFO - success into runk application
+2025-08-02 19:46:02,253 - INFO - params model name is: 
+2025-08-02 19:46:02,253 - INFO - params test data is: 
+2025-08-02 19:46:02,253 - INFO - params user out path is: 
+2025-08-02 19:46:02,253 - INFO - params we out path is: 
+2025-08-02 19:46:02,253 - INFO - params result path is: 
+2025-08-02 19:46:02,253 - ERROR - 操作失败: [Errno 2] No such file or directory: ''
+2025-08-02 19:48:01,861 - INFO - success into runk application
+2025-08-02 19:52:09,122 - INFO - success into runk application
+2025-08-02 19:52:59,613 - INFO - success into runk application
+2025-08-02 19:53:39,001 - INFO - success into runk application
+2025-08-02 19:54:38,256 - INFO - success into runk application
+2025-08-02 19:54:38,256 - ERROR - 操作失败: _StoreAction.__init__() got an unexpected keyword argument 'description'
+2025-08-02 19:55:04,450 - INFO - success into runk application
+2025-08-02 19:55:04,451 - INFO - params model name is: qwen3-8b
+2025-08-02 19:55:04,451 - INFO - params test data is: ./t_data/
+2025-08-02 19:55:04,451 - INFO - params user out path is: ./dir
+2025-08-02 19:55:04,451 - INFO - params we out path is: ./train/
+2025-08-02 19:55:04,451 - INFO - params result path is: ./train/
+2025-08-02 19:55:04,451 - ERROR - 操作失败: [Errno 21] Is a directory: './t_data/'
